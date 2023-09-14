@@ -1,0 +1,2 @@
+# ParallaxCarousel
+Parallax Carousel Animation
