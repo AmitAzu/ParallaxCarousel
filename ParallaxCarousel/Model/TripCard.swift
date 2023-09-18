@@ -15,7 +15,8 @@ struct TripCard: Identifiable, Hashable {
 }
 
 var tripCards: [TripCard] = [
+    .init(title: "Sri Lanka", subtitle: "South Asia", image: "SriLanka"),
     .init(title: "London", subtitle: "England", image: "London"),
     .init(title: "New York", subtitle: "USA", image: "NewYork"),
-    .init(title: "Prague", subtitle: "Czech Republic", image: "Prague"),
+    .init(title: "Prague", subtitle: "Czech Republic", image: "Prague")
 ]
